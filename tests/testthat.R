@@ -1,4 +1,4 @@
 library(testthat)
-library(trekcolors)
+library(BPRDcolours)
 
-test_check("trekcolors")
+test_check("BPRDcolours")
